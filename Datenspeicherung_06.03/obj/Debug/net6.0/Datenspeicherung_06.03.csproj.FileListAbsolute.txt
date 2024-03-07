@@ -1,0 +1,15 @@
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\bin\Debug\net6.0\Datenspeicherung_06.03.exe
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\bin\Debug\net6.0\Datenspeicherung_06.03.deps.json
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\bin\Debug\net6.0\Datenspeicherung_06.03.runtimeconfig.json
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\bin\Debug\net6.0\Datenspeicherung_06.03.dll
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\bin\Debug\net6.0\Datenspeicherung_06.03.pdb
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.csproj.AssemblyReference.cache
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.AssemblyInfoInputs.cache
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.AssemblyInfo.cs
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.csproj.CoreCompileInputs.cache
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.dll
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\refint\Datenspeicherung_06.03.dll
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.pdb
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\Datenspeicherung_06.03.genruntimeconfig.cache
+C:\Users\mohse\Desktop\Schule\Datenspeicherung_06.03\obj\Debug\net6.0\ref\Datenspeicherung_06.03.dll
