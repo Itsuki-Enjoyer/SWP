@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohse\\Desktop\\Schule\\Datenspeicherung_06.03\\Datenspeicherung_06.03.csproj",
+      "projectUniqueName": "C:\\Users\\mohse\\Desktop\\Schule\\SWP\\Datenspeicherung_06.03\\Datenspeicherung_06.03.csproj",
       "projectName": "Datenspeicherung_06.03",
-      "projectPath": "C:\\Users\\mohse\\Desktop\\Schule\\Datenspeicherung_06.03\\Datenspeicherung_06.03.csproj",
+      "projectPath": "C:\\Users\\mohse\\Desktop\\Schule\\SWP\\Datenspeicherung_06.03\\Datenspeicherung_06.03.csproj",
       "packagesPath": "C:\\Users\\mohse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohse\\Desktop\\Schule\\Datenspeicherung_06.03\\obj\\",
+      "outputPath": "C:\\Users\\mohse\\Desktop\\Schule\\SWP\\Datenspeicherung_06.03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohse\\AppData\\Roaming\\NuGet\\NuGet.Config",

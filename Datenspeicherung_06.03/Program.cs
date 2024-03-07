@@ -15,6 +15,7 @@ class Programm
         SaveFile(name, age);
         Thread.Sleep(2000);
         ReadFile();
+        Console.ReadKey();
     }
 
     static void SaveFile(string name, int age)
